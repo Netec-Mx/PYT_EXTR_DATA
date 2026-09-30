@@ -1,4 +1,4 @@
-# Laboratorio 6: Preparación de un dataset real de clientes
+# Laboratorio 6: Preparación de un dataset real
 
 ## Objetivo de la práctica:
 
@@ -10,7 +10,7 @@ Diagnosticar y limpiar un dataset de clientes que contiene valores nulos, identi
 
 ## Duración aproximada:
 
-- 45 minutos.
+- 60 minutos.
 
 ## Instrucciones
 

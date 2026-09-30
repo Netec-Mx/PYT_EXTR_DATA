@@ -1,4 +1,4 @@
-# Laboratorio 7: Automatización de un proceso ETL de archivos
+# Laboratorio 7: Automatización de un proceso ETL
 
 ## Objetivo de la práctica:
 
@@ -10,7 +10,7 @@ Construir un proceso ETL automatizado que detecte archivos CSV en una carpeta de
 
 ## Duración aproximada:
 
-- 45 minutos.
+- 15 minutos.
 
 ## Instrucciones
 

@@ -1,4 +1,4 @@
-# Laboratorio 5: Extracción de una tabla HTML
+# Laboratorio 5: Extracción de información desde un sitio web
 
 ## Objetivo de la práctica:
 
@@ -10,7 +10,7 @@ Descargar páginas HTML de un sitio público creado para practicar web scraping,
 
 ## Duración aproximada:
 
-- 45 minutos.
+- 50 minutos.
 
 ## Instrucciones
 

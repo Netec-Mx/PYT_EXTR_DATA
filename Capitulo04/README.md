@@ -1,4 +1,4 @@
-# Laboratorio 4: Consulta paginada de una API
+# Laboratorio 4: Consumo de una API pública
 
 ## Objetivo de la práctica:
 
@@ -10,7 +10,7 @@ Consumir una API REST pública desde Python, recorrer varias páginas de resulta
 
 ## Duración aproximada:
 
-- 45 minutos.
+- 50 minutos.
 
 ## Instrucciones
 

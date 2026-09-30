@@ -1,4 +1,4 @@
-# Laboratorio 8: Pipeline completo de extracción
+# Laboratorio 8: Desarrollo de un pipeline completo de extracción
 
 ## Objetivo de la práctica:
 
@@ -8,7 +8,7 @@ Desarrollar un pipeline completo que extraiga datos meteorológicos de una API p
 
 ## Duración aproximada:
 
-- 45 minutos
+- 75 minutos
 
 ## Instrucciones
 

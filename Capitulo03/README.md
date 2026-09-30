@@ -1,4 +1,4 @@
-# Laboratorio 3: Extracción de ventas desde SQLite
+# Laboratorio 3: Extracción desde una base de datos relacional
 
 ## Objetivo de la práctica:
 
@@ -10,7 +10,7 @@ Crear una base de datos SQLite reproducible con clientes, productos y ventas, co
 
 ## Duración aproximada:
 
-- 45 minutos.
+- 50 minutos.
 
 ## Instrucciones
 

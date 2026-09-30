@@ -10,7 +10,7 @@ Crear un proyecto Python reproducible en Windows con un entorno virtual, instala
 
 ## Duración aproximada:
 
-- 30 minutos
+- 25 minutos
 
 ## Instrucciones
 

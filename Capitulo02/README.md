@@ -10,7 +10,7 @@ Construir un convertidor multiformato en Python que lea un archivo CSV, separe l
 
 ## Duración aproximada:
 
-- 45 minutos.
+- 30 minutos.
 
 ## Instrucciones
 
